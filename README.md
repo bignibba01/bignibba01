@@ -1,6 +1,42 @@
-### Hi there 👋
+## 🧰 Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,c,cpp,java,python,html,css,php,github,git,bash,markdown,linux"/>
+  </a>
+</p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bignibba01)](https://github.com/anuraghazra/github-readme-stats)
+## 📧 My Social:
+<p align="center">
+  <a href="https://www.instagram.com/marchetti.davide01/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/davide-marchetti-0a093217b/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+</p>
+
+<div align="center">
+  <a href="https://readme-jokes.vercel.app/api?hideBorder">
+   <img src="https://readme-jokes.vercel.app/api?hideBorder">
+  </a>
+</div>
+
+## 🎵 My Music Taste:
+<div align="center">
+  <a href="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
+  </a>
+</div>
+
+## 🏆 My GitHub stats:
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=bignibba01&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=bignibba01&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=bignibba01&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bignibba01&theme=tokyonight" />
+</a>
+</div>
 
 <!--
 **bignibba01/bignibba01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
