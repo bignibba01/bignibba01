@@ -15,18 +15,19 @@
   </a>
 </p>
 
-<div align="center">
-  <a href="https://readme-jokes.vercel.app/api?hideBorder">
-   <img src="https://readme-jokes.vercel.app/api?hideBorder">
-  </a>
-</div>
-
 ## 🎵 My Music Taste:
 <div align="center">
   <a href="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=getokan2&unique=1&width=300&count=3">
   </a>
 </div>
+
+## 🤪 Random Dev Joke:
+<p align="center">
+  <a href="https://readme-jokes.vercel.app/api?hideBorder">
+   <img src="https://readme-jokes.vercel.app/api?hideBorder&qColor=%236699ff">
+  </a>
+</p>
 
 ## 🏆 My GitHub stats:
 <div>
